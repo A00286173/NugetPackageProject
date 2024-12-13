@@ -1,0 +1,11 @@
+C:\Users\tiwar\source\repos\HrishavNugetPackageLibrary\bin\Release\net8.0\HrishavNugetPackageLibrary.deps.json
+C:\Users\tiwar\source\repos\HrishavNugetPackageLibrary\bin\Release\net8.0\HrishavNugetPackageLibrary.dll
+C:\Users\tiwar\source\repos\HrishavNugetPackageLibrary\bin\Release\net8.0\HrishavNugetPackageLibrary.pdb
+C:\Users\tiwar\source\repos\HrishavNugetPackageLibrary\obj\Release\net8.0\HrishavNugetPackageLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiwar\source\repos\HrishavNugetPackageLibrary\obj\Release\net8.0\HrishavNugetPackageLibrary.AssemblyInfoInputs.cache
+C:\Users\tiwar\source\repos\HrishavNugetPackageLibrary\obj\Release\net8.0\HrishavNugetPackageLibrary.AssemblyInfo.cs
+C:\Users\tiwar\source\repos\HrishavNugetPackageLibrary\obj\Release\net8.0\HrishavNugetPackageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tiwar\source\repos\HrishavNugetPackageLibrary\obj\Release\net8.0\HrishavNugetPackageLibrary.dll
+C:\Users\tiwar\source\repos\HrishavNugetPackageLibrary\obj\Release\net8.0\refint\HrishavNugetPackageLibrary.dll
+C:\Users\tiwar\source\repos\HrishavNugetPackageLibrary\obj\Release\net8.0\HrishavNugetPackageLibrary.pdb
+C:\Users\tiwar\source\repos\HrishavNugetPackageLibrary\obj\Release\net8.0\ref\HrishavNugetPackageLibrary.dll

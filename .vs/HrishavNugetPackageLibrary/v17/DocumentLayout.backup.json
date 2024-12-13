@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tiwar\\source\\repos\\HrishavNugetPackageLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02D5E5DC-39E8-4AF9-82D4-ABBEF4764B20}|HrishavNugetPackageLibrary.csproj|c:\\users\\tiwar\\source\\repos\\hrishavnugetpackagelibrary\\hrishavnugetpackagelibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02D5E5DC-39E8-4AF9-82D4-ABBEF4764B20}|HrishavNugetPackageLibrary.csproj|solutionrelative:hrishavnugetpackagelibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D5E5DC-39E8-4AF9-82D4-ABBEF4764B20}|HrishavNugetPackageLibrary.csproj|c:\\users\\tiwar\\source\\repos\\hrishavnugetpackagelibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D5E5DC-39E8-4AF9-82D4-ABBEF4764B20}|HrishavNugetPackageLibrary.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HrishavNugetPackageLibrary",
+              "DocumentMoniker": "C:\\Users\\tiwar\\source\\repos\\HrishavNugetPackageLibrary\\HrishavNugetPackageLibrary.csproj",
+              "RelativeDocumentMoniker": "HrishavNugetPackageLibrary.csproj",
+              "ToolTip": "C:\\Users\\tiwar\\source\\repos\\HrishavNugetPackageLibrary\\HrishavNugetPackageLibrary.csproj",
+              "RelativeToolTip": "HrishavNugetPackageLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T01:48:48.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\tiwar\\source\\repos\\HrishavNugetPackageLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\tiwar\\source\\repos\\HrishavNugetPackageLibrary\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:44:10.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+
+	  <PackageId>HishavNugetPackageLibrary</PackageId>
+	  <Version>1.0.0</Version>
+	  <Authors>Hrishav Tiwar</Authors>
+	  <Company>Cambrian College</Company>
+	  <Product>HishavNugetPackageLibrary</Product>
+	  <Description>A simple NuGet package that prints messages to the console.</Description>
+	  <PackageTags>Classwork;NuGet;Library</PackageTags>
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+	  <RepositoryUrl>https://github.com/A00286173/NugetPackageProject.git</RepositoryUrl>
+
+  </PropertyGroup>
+
+</Project>
